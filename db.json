@@ -2,7 +2,7 @@
   "students": [
     { "id": 1, "name": "Yogesh" },
     { "id": 2, "name": "Ramesh" },
-    { "id": 3, "name": "Mahesh" },
+    { "id": 3, "name": "Mahesh" }
   ],
   "class": [
     { "id": 1, "title": "C1", "postId": 1 },
