@@ -1,1 +1,14 @@
-{}
+{
+  "students": [
+    { "id": 1, "name": "Yogesh" },
+    { "id": 2, "name": "Ramesh" },
+    { "id": 3, "name": "Mahesh" },
+  ],
+  "class": [
+    { "id": 1, "title": "C1", "postId": 1 },
+    { "id": 2, "title": "C2", "postId": 2 }
+  ],
+  "profile": {
+    "name": "YRB"
+  }
+}
